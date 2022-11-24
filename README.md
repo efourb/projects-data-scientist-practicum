@@ -32,7 +32,7 @@ Topics covered:
 ### Project 1:
 Analyzed data on bank customers and determined the proportion of creditworthy.
 
-You can view Project 1 online here, or find it in the corresponding folder of the this repository.
+You can view Project 1 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P1%20Data%20Preprocessing/P1%20Data%20Preprocessing.ipynb), or find it in the [corresponding folder](/P1%20Data%20Preprocessing/) of the this repository.
 
 ## Exploratory Data Analysis (EDA)
 
