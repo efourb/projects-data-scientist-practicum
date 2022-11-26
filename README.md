@@ -10,20 +10,20 @@ Summary table with a brief description and a link to more detailed project descr
 
 | Project Theme | Project Name | Skills and Tools | 
 | :---------------------- | :---------------------- | :---------------------- |
-| Data Preprocessing | Borrower Reliability Study - Banking Data Analysis | *Data Preprocessing*, *Python*, *Pandas* |
-| Exploratory Data Analysis (EDA) | Sale of apartments - analysis of the real estate market | *Python*, *Pandas*, *Matplotlib*, *Exploratory Data Analysis*, *Data Visualization*, *Data Preprocessing* |
-| Statistical Data Analysis | Determination of a favorable mobile plan for a telecom company | *Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*, *Descriptive statistics*, *Statistical Hypothesis Testing* |
-| Integrated Project 1 | Analysis of patterns of game success | *Pandas*, *Python*, *Matplotlib*, *SciPy* |
-| Introduction to Machine Learning | Telecom company customer classification | *Python*, *Pandas*, *Matplotlib*, *Scikit-learn* |
-| Supervised Learning | Forecasting the outflow of the Bank's clients | *Pandas*, *Matplotlib*, *Scikit-learn* |
-| Machine Learning in Business | Determining the most profitable region for oil production | *Pandas*, *Scikit-learn*, *bootstrap* |
-| Integrated project 2 | Study of the technological process of gold refining | *Python*, *Pandas*, *Matplotlib*, *NumPy*, *Scikit-learn*, *Exploratory Data Analysis* |
-| Linear Algebra | Insurance company customer data protection | *Python*, *NumPy*, *Scikit-learn* |
-| Numerical Methods | Building a model for determining the cost of a car | *Python*, *Pandas*, *lightgbm* |
-| Time Series | Forecasting the number of taxi orders for the next hour | *Python*, *Pandas*, *Scikit-learn*, *statsmodels* |
-| Machine Learning for Texts | Training the comment classification model | *Python*, *Pandas*, *BERT*, *nltk*, *tf-idf* |
-| Computer Vision | Buyer photo editing | *Python*, *Keras* |
-| Final Project | Building a steel temperature prediction model | *Data Preprocessing*, *Python*, *Pandas*, *NumPy*, *Scikit-learn*, *lightgbm* |
+| [Data Preprocessing](#data-preprocessing) | Borrower Reliability Study - Banking Data Analysis | *Data Preprocessing*, *Python*, *Pandas* |
+| [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda) | Sale of apartments - analysis of the real estate market | *Python*, *Pandas*, *Matplotlib*, *Exploratory Data Analysis*, *Data Visualization*, *Data Preprocessing* |
+| [Statistical Data Analysis](#statistical-data-analysis) | Determination of a favorable mobile plan for a telecom company | *Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*, *Descriptive statistics*, *Statistical Hypothesis Testing* |
+| [Integrated Project 1](#integrated-project-1) | Analysis of patterns of game success | *Pandas*, *Python*, *Matplotlib*, *SciPy* |
+| [Introduction to Machine Learning](#introduction-to-machine-learning) | Telecom company customer classification | *Python*, *Pandas*, *Matplotlib*, *Scikit-learn* |
+| [Supervised Learning](#supervised-learning) | Forecasting the outflow of the Bank's clients | *Pandas*, *Matplotlib*, *Scikit-learn* |
+| [Machine Learning in Business](#machine-learning-in-business) | Determining the most profitable region for oil production | *Pandas*, *Scikit-learn*, *bootstrap* |
+| [Integrated Project 2](#integrated-project-2) | Study of the technological process of gold refining | *Python*, *Pandas*, *Matplotlib*, *NumPy*, *Scikit-learn*, *Exploratory Data Analysis* |
+| [Linear Algebra](#linear-algebra) | Insurance company customer data protection | *Python*, *NumPy*, *Scikit-learn* |
+| [Numerical Methods](#numerical-methods) | Building a model for determining the cost of a car | *Python*, *Pandas*, *lightgbm* |
+| [Time Series](#time-series) | Forecasting the number of taxi orders for the next hour | *Python*, *Pandas*, *Scikit-learn*, *statsmodels* |
+| [Machine Learning for Texts](#machine-learning-for-texts) | Training the comment classification model | *Python*, *Pandas*, *BERT*, *nltk*, *tf-idf* |
+| [Computer Vision](#computer-vision) | Buyer photo editing | *Python*, *Keras* |
+| [Final Project](#final-project) | Building a steel temperature prediction model | *Data Preprocessing*, *Python*, *Pandas*, *NumPy*, *Scikit-learn*, *lightgbm* |
 
 ## Basic Python
 
