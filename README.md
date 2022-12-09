@@ -51,7 +51,7 @@ Topics covered:
 ### Project 1:
 Analyzed data on bank customers and determined the proportion of creditworthy.
 
-You can view Project 1 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P1%20Data%20Preprocessing/P1%20Data%20Preprocessing.ipynb), or find it in the [corresponding folder](/P1%20Data%20Preprocessing/) of the this repository.
+You can view Project 1 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P01%20Data%20Preprocessing/P1%20Data%20Preprocessing.ipynb), or find it in the [corresponding folder](/P01%20Data%20Preprocessing/) of this repository.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -65,7 +65,7 @@ Topics covered:
 ### Project 2:
 Researched the archive of ads for the sale of real estate properties.
 
-You can view Project 2 online here, or find it in the corresponding folder of the this repository.
+You can view Project 2 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P02%20Exploratory%20Data%20Analysis/P2%20Exploratory%20Data%20Analysis.ipynb), or find it in the [corresponding folder](/P02%20Exploratory%20Data%20Analysis/) of this repository.
 
 ## Statistical Data Analysis
 
@@ -77,14 +77,14 @@ Topics covered:
 ### Project 3:
 Optimized sales funnels to speed up the work of the marketing department.
 
-You can view Project 3 online here, or find it in the corresponding folder of the this repository.
+You can view Project 3 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P03%20Statistical%20Data%20Analysis/P3%20Statistical%20Data%20Analysis.ipynb), or find it in the [corresponding folder](/P03%20Statistical%20Data%20Analysis/) of this repository.
 
 ## Integrated Project 1
 
 ### Project 4:
 Found patterns that determine the success of a computer game.
 
-You can view Project 4 online here, or find it in the corresponding folder of the this repository.
+You can view Project 4 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P04%20Integrated%20Project%201/P4%20Integrated%20Project%201.ipynb), or find it in the [corresponding folder](/P04%20Integrated%20Project%201/) of this repository.
 
 ## Introduction to Machine Learning
 
@@ -98,7 +98,7 @@ Topics covered:
 ### Project 5:
 Developed a mobile plan recommendation system for a mobile operator.
 
-You can view Project 5 online here, or find it in the corresponding folder of the this repository.
+You can view Project 5 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P05%20Introduction%20to%20Machine%20Learning/P5%20Introduction%20to%20Machine%20Learning.ipynb), or find it in the [corresponding folder](/P05%20Introduction%20to%20Machine%20Learning/) of this repository.
 
 ## Supervised Learning
 
@@ -112,7 +112,7 @@ Topics covered:
 ### Project 6:
 Predicted the probability of a client leaving the bank.
 
-You can view Project 6 online here, or find it in the corresponding folder of the this repository.
+You can view Project 6 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P06%20Supervised%20Learning/P6%20Supervised%20Learning.ipynb), or find it in the [corresponding folder](/P06%20Supervised%20Learning/) of this repository.
  
 ## Machine Learning in Business
 
@@ -125,14 +125,14 @@ Topics covered:
 ### Project 7:
 Trained a model that helps to identify a new location for oil production with the least risk of financial loss.
 
-You can view Project 7 online here, or find it in the corresponding folder of the this repository.
+You can view Project 7 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P07%20Machine%20Learning%20in%20Business/P7%20Machine%20Learning%20in%20Business.ipynb), or find it in the [corresponding folder](/P07%20Machine%20Learning%20in%20Business/) of this repository.
  
 ## Integrated project 2
 
 ### Project 8:
 Simulated the process of smelting gold ore to improve the operation of the enterprise.
 
-You can view Project 8 online here, or find it in the corresponding folder of the this repository.
+You can view Project 8 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P08%20Integrated%20project%202/P8%20Integrated%20project%202.ipynb), or find it in the [corresponding folder](/P08%20Integrated%20project%202/) of this repository.
 
 ## Linear Algebra
 
@@ -145,7 +145,7 @@ Topics covered:
 ### Project 9:
 Protected the personal information of the clients of the insurance company by the method of data conversion.
 
-You can view Project 9 online here, or find it in the corresponding folder of the this repository.
+You can view Project 9 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P09%20Linear%20Algebra/P9%20Linear%20Algebra.ipynb), or find it in the [corresponding folder](/P09%20Linear%20Algebra/) of this repository.
  
 ## Numerical Methods
 
@@ -159,7 +159,7 @@ Topics covered:
 ### Project 10:
 Developed a model to determine the cost of a used car.
 
-You can view Project 10 online here, or find it in the corresponding folder of the this repository.
+You can view Project 10 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P10%20Numerical%20Methods/P10%20Numerical%20Methods.ipynb), or find it in the [corresponding folder](/P10%20Numerical%20Methods/) of this repository.
 
 ## Time Series
 
@@ -170,7 +170,7 @@ Topics covered:
 ### Project 11:
 Built a model and predicted peak loads in a taxi.
 
-You can view Project 11 online here, or find it in the corresponding folder of the this repository.
+You can view Project 11 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P11%20Time%20Series/P11%20Time%20Series.ipynb), or find it in the [corresponding folder](/P11%20Time%20Series/) of this repository.
 
 ## Machine Learning for Texts
 
@@ -181,7 +181,7 @@ Topics covered:
 ### Project 12:
 Accelerated the moderation of comments in the community by automating the assessment of their toxicity.
 
-You can view Project 12 online here, or find it in the corresponding folder of the this repository.
+You can view Project 12 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P12%20Machine%20Learning%20for%20Texts/P12%20Machine%20Learning%20for%20Texts.ipynb), or find it in the [corresponding folder](/P12%20Machine%20Learning%20for%20Texts/) of this repository.
 
 ## Computer Vision
 
@@ -193,7 +193,7 @@ Topics covered:
 ### Project 13:
 Built a model to determine the approximate age of a person from a photograph.
 
-You can view Project 13 online here, or find it in the corresponding folder of the this repository.
+You can view Project 13 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P13%20Computer%20Vision/P13%20Computer%20Vision.ipynb), or find it in the [corresponding folder](/P13%20Computer%20Vision/) of this repository.
 
 ## Unsupervised Learning
 
@@ -206,4 +206,4 @@ Topics covered:
 ### Project 14:
 Built a model that predicts the parameters of the technological process at a metallurgical plant.
 
-You can view Project 14 online here, or find it in the corresponding folder of the this repository.
+You can view Project 14 online [here](https://nbviewer.org/github/efourb/projects-data-scientist-practicum/blob/main/P14%20Final%20Project/P14%20Final%20Project.ipynb), or find it in the [corresponding folder](/P14%20Final%20Project/) of this repository.
