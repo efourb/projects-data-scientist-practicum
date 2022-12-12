@@ -1,4 +1,4 @@
-# Borrower Reliability Study
+# Analysis of game success patterns
 
 ## Introduction for the Project 
 
