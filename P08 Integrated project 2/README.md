@@ -1,32 +1,19 @@
-# Borrower Reliability Study
+# Recovery of gold from ore
 
 ## Introduction for the Project 
 
-The customer is the credit department of the bank. It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time. Input data from the bank - statistics on the solvency of customers.
-
-The results of the study will be taken into account when building a credit scoring model - a special system that evaluates the ability of a potential borrower to repay a loan to a bank.
-
-In the upcoming work, it is planed to familiarize with the data obtained, conduct their preprocessing and answer the following questions:
-* Is there a relationship between having children and repaying a loan on time?
-* Is there a relationship between marital status and loan repayment on time?
-* Is there a relationship between income level and loan repayment on time?
-* How do different purposes of a loan affect its repayment on time?
+Prepare a prototype of a machine learning model for Zyfra. The company is developing efficiency solutions for the heavy industry. The model should predict the amount of gold extracted from gold ore. You have the data on extraction and purification. The model will help optimize production and eliminate unprofitable parameters.
 
 ## Analysis results
 
-* Examined the data;
-* Identified missing values;
-* Filled in the missing values;
-* Gave an explanation of what missing values were found;
-* Possible reasons for detecting data nulls were described;
-* Explained for what principle the gaps were filled;
-* Replaced open data type with integer;
-* Made an explanation which method is used to change the data type and why;
-* Removed duplicates;
-* Made an explanation what is used to find and remove duplicates;
-* Possible reasons for detecting duplicates in data are described;
-* Highlighted lemmas in column with the reasons of obtaining a loan;
-* The process of lemmatization is described;
-* Categorized data;
-* Prepared review of data categorization;
-* Answered the questions
+* Prepared data:
+- Checked that the enrichment efficiency is calculated correctly. Calculate it on the training sample. Found MAE between calculations and feature value. Described findings
+- Analyzed features that are not available in the test sample
+- Conducted data preprocessing
+* Analyzed the data:
+- Looked at how the concentration of metals changes at various stages of purification. Described findings
+- Compared the size distributions of raw material granules on the training and test samples
+- Investigated the total concentration of all substances at different stages: in raw materials, in rough and final concentrates
+* Built model
+- Wrote a function to calculate the final sMAPE
+- Trained different models and evaluated their quality by cross-validation. Chose the best model and tested it on a test sample. Described findings
