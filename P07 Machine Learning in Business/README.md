@@ -2,7 +2,10 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A mining company tasked me with finding the best place for a new well. I used the following steps to choose the location:
+
 * Collected the oil well parameters in the selected region: oil quality and volume of reserves
 * Built a model for predicting the volume of reserves in the new wells
 * Picked the oil wells with the highest estimated values

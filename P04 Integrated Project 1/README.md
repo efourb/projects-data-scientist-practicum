@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A video game retailer has user and expert reviews, genre, console, and historical data on game sales available. It is needed to identify patterns that determine whether a game succeeds or not in order to spot potential big winners and plan advertising campaigns.
 
 ## Analysis results

@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A supermarket chain would like to explore whether data science can help them adhere to alcohol laws by making sure they do not sell alcohol to people underage.
 The shops are equipped with cameras in the checkout area which are triggered when a person is buying alcohol. The task is to build and evaluate a model for verifying people’s age.
 

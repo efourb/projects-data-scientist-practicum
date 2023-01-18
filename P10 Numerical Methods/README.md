@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A used-car sales service is developing an app to attract new customers.
 The app allows you to quickly find out the market value of your car. Having access to historical data, technical specifications, trim versions, and prices, a model to determine the value of a given car needs to be built.
 

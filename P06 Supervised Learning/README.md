@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A bank’s customers are leaving: little by little, accounts are being chipped away every month. The bankers have figured out that it’s cheaper to save the existing customers rather than to attract new ones. It needs to be predicted whether a customer will leave the bank soon, using data on clients’ past behavior and termination of contracts with the bank.
 
 ## Analysis results

@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 At my disposal was the data of the service for buying / selling apartments - an archive of ads for the sale of apartments in the city and neighboring settlements for several years. It is necessary to determine the market value of real estate. My job is to set the parameters. This will allow to build an automated system: it will track anomalies and fraudulent activity.
 Two types of data are available for each apartment for sale. The first ones are entered by the user, the second ones are obtained automatically on the basis of cartographic data. For example, the distance to the center, airport, nearest park and reservoir.
 

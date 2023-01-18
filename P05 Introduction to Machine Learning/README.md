@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A mobile carrier is unhappy with the fact that many of their customers are using legacy plans. They want to develop a model that can analyze customer behavior and recommend one of their newer plans. For this classification task, it is needed to develop a model that will pick the right plan.
 
 ## Analysis results

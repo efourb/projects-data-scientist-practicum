@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 Prototype of a machine learning model needs to be prepared for Zyfra. The company is developing efficiency solutions for the heavy industry. The model should predict the amount of gold extracted from gold ore. The data on extraction and purification is available. The model will help optimize production and eliminate unprofitable parameters.
 
 ## Analysis results

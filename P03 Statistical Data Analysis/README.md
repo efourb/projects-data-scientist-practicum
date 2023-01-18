@@ -2,6 +2,8 @@
 
 ## Introduction for the Project 
 
+Project status: **Complete**
+
 A telecom operator company offers its clients two prepaid plans.
 The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget.
 
